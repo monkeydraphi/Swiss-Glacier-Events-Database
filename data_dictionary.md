@@ -12,7 +12,6 @@ This file explains the column structures used in the CSV files of this dataset. 
 * **elevation_max_m**: Maximum elevation in meters above sea level.
 * **years_covered**: Years covered in data.
 * **corr_weather_stat**: Corresponding weather station. 
-* 
 ## events.csv (Ice Avalanche Database)
 * **event_id**: Unique identifier for the avalanche event (**glacier_id**_**date_start**_index).
 * **date_start**: Start date of the event in ISO 8601 format (YYYY-MM-DD).
