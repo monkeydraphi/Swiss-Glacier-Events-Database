@@ -14,8 +14,10 @@ This file explains the column structures used in the CSV files of this dataset. 
 
 ## events.csv (Ice Avalanche Database)
 * **event_id**: Unique identifier for the avalanche event.
-* **date**: Date of the event in ISO 8601 format (YYYY-MM-DD).
-* **time**: Time of the event (HH:MM) if captured by monitoring cameras.
+* **date_start**: Start date of the event in ISO 8601 format (YYYY-MM-DD).
+* **date_end**: End date of the event in ISO 8601 format (YY-MM-DD). 
+* **time_start**: Start time of the event (HH:MM) if captured by monitoring cameras.
+* **time_end**: End time of the event (HH:MM) if captured by monitoring cameras. 
 * **magnitude_vol_m3**: Estimated volume of the ice avalanche in cubic meters.
 * **geometry_notes**: Observations on glacier geometry at the release area prior to the event.
 * **ice_flow_velocity_m_day**: Recorded ice flow velocity from monitoring systems around the time of the event.
