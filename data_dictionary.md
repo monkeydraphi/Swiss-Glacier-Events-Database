@@ -10,6 +10,7 @@ This file explains the column structures used in the CSV files of this dataset. 
 * **longitude**: WGS84 decimal longitude.
 * **elevation_min_m**: Minimum elevation in meters above sea level.
 * **elevation_max_m**: Maximum elevation in meters above sea level.
+* **years_covered**: Years covered in data.
 
 ## events.csv (Ice Avalanche Database)
 * **event_id**: Unique identifier for the avalanche event.
