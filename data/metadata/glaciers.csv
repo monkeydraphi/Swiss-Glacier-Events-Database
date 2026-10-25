@@ -1,4 +1,4 @@
-glacier_id, name, canton, latitude, longitude, elevation_min, elevation_max
-CH-TRI, Triftgletscher (Weissmies), Valais, 46.1278, 8.0119, 2726, 4017
-CH-EIG, Eigergletscher, Bern, 46.5672, 7.9889, 3200, 3700
-CH-BIS, Bisgletscher (Weisshorn), Valais, 46.1115, 7.7354, 2000, 4500
+glacier_id, name, canton, latitude, longitude, elevation_min_m, elevation_max_m, years_covered, corr_weather_stations
+CH-TRI, Triftgletscher (Weissmies), Valais, 46.129176, 7.999319, 2726, 4017, 2018-2026,  Grächen (Temperature) and Saas-Balen (Precipitation)
+CH-EIG, Eigergletscher, Bern, 46.5672, 7.9889, 3200, 3700, 2018-2022, Jungfraujoch (Temperature) and Kleine Scheidegg (Precipitation)
+CH-BIS, Bisgletscher (Weisshorn), Valais, 46.104659, 7.718349, 2000, 4500, 2018-2026, Zermatt
