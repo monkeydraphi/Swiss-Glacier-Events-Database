@@ -6,8 +6,8 @@ This file explains the column structures used in the CSV files of this dataset. 
 * **glacier_id**: Unique identifier for the glacier (Format: CountryCode-3Letters).
 * **name**: Common name of the glacier.
 * **canton**: Swiss canton where the glacier is located.
-* **latitude**: WGS84 decimal latitude.
-* **longitude**: WGS84 decimal longitude.
+* **latitude**: CH1903+ latitude.
+* **longitude**: CH1903+ longitude.
 * **elevation_min**: Minimum elevation in meters above sea level.
 * **elevation_max**: Maximum elevation in meters above sea level.
 * **years_covered**: Years covered in data.
